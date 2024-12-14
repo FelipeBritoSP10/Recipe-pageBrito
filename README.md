@@ -16,9 +16,11 @@ Estilização clean com uso de flexbox para alocar e organizar os elementos da p
 
 # Como usar ⚙️
 1. Clone este repositório
-git clone https://github.com/seu-usuario/recipe-page.git
+git clone
+https://github.com/FelipeBritoSP10/Recipe-pageBrito.git
 
-2. Navegue até o diretório do projeto:
+
+3. Navegue até o diretório do projeto:
 cd recipe-page
 
 Abra o arquivo index.html no navegador para visualizar a página.
