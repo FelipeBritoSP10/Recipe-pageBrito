@@ -5,8 +5,8 @@ Este projeto é uma recriação de uma página de receitas, desenvolvido como pa
 # Tecnologias utilizadas 🖥️
 HTML5:
 Estruturação do conteúdo de forma semântica e acessível.
-CSS:
-Estilização utilizando flexbox para criar um layout responsivo.
+
+CSS: Estilização utilizando flexbox para criar um layout responsivo.
 Utilização de grid para organização dos elementos.
 
 # Funcionalidades 📱
