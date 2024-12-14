@@ -31,7 +31,9 @@ Link da Aplicação 🌐
 https://recipe-page-lipefront.vercel.app
 
 Link do Desafio 🧩
+
 Desafio disponível no Front-End Mentor:
+
 https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
 
 
