@@ -3,8 +3,11 @@
 Este projeto é uma recriação de uma página de receitas, desenvolvido como parte de um desafio do Front-End Mentor. A proposta foi criar uma página funcional e visualmente atraente utilizando HTML e CSS, focando em um layout responsivo e um design fiel ao modelo fornecido.
 
 # Tecnologias utilizadas 🖥️
-HTML5: Estruturação do conteúdo de forma semântica e acessível.
-CSS: Estilização utilizando flexbox para criar um layout responsivo e grid para organização dos elementos.
+HTML5:
+Estruturação do conteúdo de forma semântica e acessível.
+CSS:
+Estilização utilizando flexbox para criar um layout responsivo.
+Utilização de grid para organização dos elementos.
 
 # Funcionalidades 📱
 Layout responsivo para desktop, tablets e smartphones.
