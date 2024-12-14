@@ -15,14 +15,15 @@ Design inspirado no modelo do Front-End Mentor, garantindo que as proporções, 
 Estilização clean com uso de flexbox para alocar e organizar os elementos da página de forma eficaz.
 
 # Como usar ⚙️
-1. Clone este repositório
+1. Clone este repositório:
    
-git clone
+   git clone
 https://github.com/FelipeBritoSP10/Recipe-pageBrito.git
 
 
-3. Navegue até o diretório do projeto:
-cd recipe-page
+2. Navegue até o diretório do projeto:
+   
+   cd recipe-page
 
 Abra o arquivo index.html no navegador para visualizar a página.
 
