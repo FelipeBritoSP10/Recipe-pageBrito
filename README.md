@@ -28,9 +28,10 @@ https://github.com/FelipeBritoSP10/Recipe-pageBrito.git
 Abra o arquivo index.html no navegador para visualizar a página.
 
 Link da Aplicação 🌐
-Recipe Page - Minha Solução
+https://recipe-page-lipefront.vercel.app
 
 Link do Desafio 🧩
-Desafio disponível no Front-End Mentor: Recipe Page Challenge
+Desafio disponível no Front-End Mentor:
+https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm
 
 
