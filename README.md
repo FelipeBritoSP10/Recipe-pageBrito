@@ -27,9 +27,9 @@ https://github.com/FelipeBritoSP10/Recipe-pageBrito.git
 
 Abra o arquivo index.html no navegador para visualizar a página.
 
-# Link da Aplicação 🌐
-Recipe Page
+Link da Aplicação 🌐
+Recipe Page - Minha Solução
 
-# Link do Desafio 🧩
+Link do Desafio 🧩
 Desafio disponível no Front-End Mentor: Recipe Page Challenge
 
