@@ -16,6 +16,7 @@ Estilização clean com uso de flexbox para alocar e organizar os elementos da p
 
 # Como usar ⚙️
 1. Clone este repositório
+   
 git clone
 https://github.com/FelipeBritoSP10/Recipe-pageBrito.git
 
