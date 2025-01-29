@@ -13,6 +13,20 @@ Este projeto é uma recriação de uma página de receitas, desenvolvida como pa
 - Design inspirado no modelo do Front-End Mentor, garantindo que as proporções, fontes e cores estejam de acordo com o desafio.
 - Estilização clean com uso de **flexbox** para alocar e organizar os elementos da página de forma eficaz.
 
+### Descrição das Pastas e Arquivos:
+
+- **`assets/`**:
+  - **images/**: Contém todas as imagens usadas no projeto, como o logo e as imagens das receitas.
+
+- **`css/`**:
+  - **estilo.css**: Arquivo principal de estilos para a página, onde todos os estilos são definidos.
+
+- **`index.html`**: O arquivo HTML principal que contém o conteúdo da página e a estrutura do layout.
+
+- **`docs/`**: Contém toda a documentação relacionada ao projeto.
+
+Esta estrutura é simples e organizada, facilitando a manutenção e expansão do projeto conforme necessário.
+
 ## Como usar ⚙️
 
 1. Clone este repositório:
