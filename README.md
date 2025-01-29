@@ -25,7 +25,7 @@ Este projeto é uma recriação de uma página de receitas, desenvolvida como pa
 # Links 🌐
 Link da Aplicação: https://recipe-page-lipefront.vercel.app
 
-Link do Desafio: Front-End Mentor: Recipe Page Challenge
+Link do Desafio: Front-End Mentor: [Recipe Page Challenge](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
 ## Conclusão ✅
 
