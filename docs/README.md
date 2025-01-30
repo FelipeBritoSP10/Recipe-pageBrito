@@ -36,6 +36,12 @@ Esta estrutura é simples e organizada, facilitando a manutenção e expansão d
    cd recipe-page
    ```
 
+2. Abra no navegador
+
+Após clonar o repositório e acessar o diretório, basta abrir o arquivo index.html no seu navegador:
+
+Localize o arquivo index.html dentro da pasta do projeto. Clique duas vezes nele ou arraste para um navegador (Google Chrome, Firefox, Edge, etc.).
+
 # Links 🌐
 Link da Aplicação: https://recipe-page-lipefront.vercel.app
 
